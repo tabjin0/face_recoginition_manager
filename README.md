@@ -1,0 +1,2 @@
+# face_recoginition_manager
+人脸识别软件数据管理
